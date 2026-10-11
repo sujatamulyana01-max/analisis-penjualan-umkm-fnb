@@ -57,8 +57,8 @@ Model di Power BI: `transactions_clean` → `line_items` (per `ReceiptNumber`) �
 ├── data/
 │   └── raw/                 # unduh sendiri dari Mendeley (lihat tautan di bawah)
 ├── dashboard/
-│   ├── dashboard_umkm_fnb.pbix
-│   ├── dashboard_umkm_fnb.pdf
+│   ├── Dashboard Penjualan UMKM.pbix
+│   ├── Dashboard Penjualan UMKM.pdf
 │   ├── halaman-1.png
 │   └── halaman-2.png
 ```
