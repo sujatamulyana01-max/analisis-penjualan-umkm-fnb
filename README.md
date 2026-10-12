@@ -86,7 +86,3 @@ Model di Power BI: `transactions_clean` → `line_items` (per `ReceiptNumber`) �
 - **Lisensi:** [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 **Perubahan yang dilakukan:** data dipecah per item, digabung dengan tabel produk, ditambah kolom turunan (waktu dan jenis pelanggan), dan diringkas dalam dashboard. Tidak ada klaim bahwa penulis dataset menyetujui atau mendukung analisis ini.
-
-## Kontak
-
-Sujata Mulyana — [LinkedIn](https://www.linkedin.com/in/sujata-mulyana/) · [Email](mailto:sujatamulyana01@gmail.com)
