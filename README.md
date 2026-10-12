@@ -67,7 +67,7 @@ Model di Power BI: `transactions_clean` â†’ `line_items` (per `ReceiptNumber`) â
 
 1. Unduh `Products.csv` dan `Transactions.csv` dari tautan dataset di bawah, simpan di `data/raw/`.
 2. Jalankan notebook dari awal sampai akhir (Python 3, pandas).
-3. Buka `dashboard_umkm_fnb.pbix` di Power BI Desktop dan arahkan sumber data ke file hasil ekspor notebook.
+3. Buka `Dashboard Penjualan UMKM.pbix` di Power BI Desktop dan arahkan sumber data ke file hasil ekspor notebook.
 
 ## Keterbatasan data
 
